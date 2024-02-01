@@ -1,0 +1,14 @@
+@import './assets/style/style-variables.scss';
+
+*, *::after, *::before{
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 62.5%;
+}
+
