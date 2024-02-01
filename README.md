@@ -1,2 +1,0 @@
-# Nayzak
-Nayzak - E-commerce
